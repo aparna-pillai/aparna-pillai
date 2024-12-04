@@ -4,7 +4,7 @@ I'm Aparna Pillai – a passionate problem-solver, aspiring data scientist, and 
 
 🎓 I’m an Honors Program student at Rutgers University, double-majoring in Computer Science and Data Science (Economics Track), with a minor in Quantitative Economics. I’m fascinated by the intersection of technology, data, and economics and love exploring how these fields enrich each other.
 
-#🌟 About Me
+**🌟 About Me**
 
   🔭 Currently Working On: Developing the Technology News Insight Engine at Accenture with my teammates from Cornell's Break Through Tech AI Program.    
   
