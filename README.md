@@ -35,6 +35,7 @@ I'm Aparna Pillai – a passionate problem-solver, aspiring data scientist, and 
     🎨 In my free time, I enjoy performing with the Rutgers Performing Dance Company.
 
   📫 Get in Touch
+  
     - Email: aparnarenjithpillai@gmail.com 
     - LinkedIn: https://www.linkedin.com/in/aparna-renjith-pillai/
     - GitHub: https://github.com/aparna-pillai
