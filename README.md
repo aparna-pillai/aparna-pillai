@@ -6,11 +6,17 @@ I'm Aparna Pillai – a passionate problem-solver, aspiring data scientist, and 
 
 **🌟 About Me**
 
-  🔭 Currently Working On: Developing the Technology News Insight Engine at Accenture with my teammates from Cornell's Break Through Tech AI Program.    
+  🔭 Currently Working On
   
-  🌱 Currently Learning: Expanding my knowledge of AWS infrastructure to build scalable, cloud-based solutions.
+  Developing the Technology News Insight Engine at Accenture with my teammates from Cornell's Break Through Tech AI Program.    
   
-  👯 Looking to Collaborate On: Machine learning, frontend/backend projects, and other exciting tech challenges!
+  🌱 Currently Learning
+  
+  Expanding my knowledge of AWS infrastructure to build scalable, cloud-based solutions.
+  
+  👯 Looking to Collaborate On
+  
+  Machine learning, frontend/backend projects, and other exciting tech challenges!
   
   🛠️ Skills
   
