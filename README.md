@@ -13,6 +13,7 @@ I'm Aparna Pillai – a passionate problem-solver, aspiring data scientist, and 
   👯 Looking to Collaborate On: Machine learning, frontend/backend projects, and other exciting tech challenges!
   
   🛠️ Skills
+  
     Languages:
       - Java (JavaFX), Python (Tkinter, PyQt5), SQL
       - HTML, CSS, JavaScript
