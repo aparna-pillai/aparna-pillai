@@ -8,7 +8,7 @@ I'm Aparna Pillai – a passionate problem-solver, aspiring data scientist, and 
 
   🔭 Currently Working On
   
-    Developing the Technology News Insight Engine at Accenture with my teammates from Cornell's Break Through Tech AI Program.    
+    Incoming Software Engineer Intern @ Verisk
   
   🌱 Currently Learning
   
